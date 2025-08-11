@@ -1,6 +1,6 @@
 'use client'
 import { useEffect, useRef } from 'react'
-import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaGitAlt } from 'react-icons/fa'
+import { FaHtml5, FaCss3Alt, FaJs, FaReact } from 'react-icons/fa'
 import { SiTypescript, SiNextdotjs, SiGreensock, SiRedux } from 'react-icons/si'
 import gsap from 'gsap'
 import ScrollTrigger from 'gsap/ScrollTrigger'

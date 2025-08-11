@@ -56,11 +56,11 @@ export default function About() {
         ref={paraRef}
         className="text-lg max-w-3xl mx-auto text-center text-gray-700 dark:text-gray-300 leading-relaxed"
       >
-        I’m Faiz Favaz, a passionate front-end developer with a strong eye for clean design, responsive layouts, and performance optimization. I love bringing ideas to life through sleek, interactive user interfaces that are fast, accessible, and user-friendly.
+        I&apos;m Faiz Favaz, a passionate front-end developer with a strong eye for clean design, responsive layouts, and performance optimization. I love bringing ideas to life through sleek, interactive user interfaces that are fast, accessible, and user-friendly.
         <br /><br />
-        I’m constantly learning and exploring modern tools like React, Tailwind CSS, and GSAP to stay ahead in the ever-evolving web development world. My goal is to craft digital experiences that not only look good but also feel smooth and intuitive.
+        I&apos;m constantly learning and exploring modern tools like React, Tailwind CSS, and GSAP to stay ahead in the ever-evolving web development world. My goal is to craft digital experiences that not only look good but also feel smooth and intuitive.
         <br /><br />
-        Whether it's improving user engagement or optimizing for performance, I enjoy solving real-world problems through code — one pixel at a time.
+        Whether it&apos;s improving user engagement or optimizing for performance, I enjoy solving real-world problems through code — one pixel at a time.
       </p>
     </section>
   );
